@@ -6,6 +6,10 @@ WePayUI-Design 是微信支付品牌的视觉识别系统，请各合作单位�
 
 目前提供微信支付LOGO源文件。开发者或设计师可以使用 WePayUI-Design 进行微信 Web 开发的原型设计、视觉设计等。
 
+###下载
+
+[WePayUI-Design.zip](https://github.com/wepayui/wepayui-design/archive/master.zip)
+
 ### 环境依赖
 
 #### Illustrator 版本
