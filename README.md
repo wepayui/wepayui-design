@@ -10,9 +10,7 @@ WePayUI-Design 是微信支付品牌的视觉识别系统，请各合作单位�
 
 [WePayUI-Design.zip](https://github.com/wepayui/wepayui-design/archive/master.zip)
 
-###其它下载
-
-[品牌基础物料素材下载](https://pay.weixin.qq.com/material/brand.shtml)
+更多素材下载请前往 [商户平台设计指引](https://pay.weixin.qq.com/material/brand.shtml)
 
 ### 环境依赖
 
